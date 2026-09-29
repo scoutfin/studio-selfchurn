@@ -1,0 +1,415 @@
+[
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.9339357346199758,
+   "negative": 0.057557483301810985,
+   "neutral": 0.008506782078213189
+  },
+  "margin": 0.8763782513181648,
+  "naive_margin": 0.019319643721429202,
+  "label_mass": 0.9983360211765294,
+  "top20_mass": 0.9996365216834284,
+  "item": "The battery lasts all day and the screen is gorgeous.",
+  "churn": 0.0,
+  "mode": "positive",
+  "counts": {
+   "positive": 16
+  }
+ },
+ {
+  "naive": "negative",
+  "naive_tok": "Negative",
+  "summed": "negative",
+  "dist": {
+   "negative": 0.5048522839179616,
+   "positive": 0.4749656770953398,
+   "neutral": 0.02018203898669861
+  },
+  "margin": 0.02988660682262173,
+  "naive_margin": 0.0014688551236492955,
+  "label_mass": 0.9966220918235588,
+  "top20_mass": 0.9992340722287766,
+  "item": "It broke after two weeks and support never replied.",
+  "churn": 0.5,
+  "mode": "positive",
+  "counts": {
+   "positive": 8,
+   "negative": 8
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.7657962676655637,
+   "negative": 0.19918017327564944,
+   "neutral": 0.035023559058786784
+  },
+  "margin": 0.5666160943899143,
+  "naive_margin": 0.08536492976698125,
+  "label_mass": 0.9966408158385706,
+  "top20_mass": 0.999180442281002,
+  "item": "It arrived on time. The box was slightly dented.",
+  "churn": 0.25,
+  "mode": "positive",
+  "counts": {
+   "negative": 4,
+   "positive": 12
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.9700041097532645,
+   "negative": 0.02729014090461855,
+   "neutral": 0.0027057493421170126
+  },
+  "margin": 0.9427139688486459,
+  "naive_margin": 0.3480412297191125,
+  "label_mass": 0.9984710343736976,
+  "top20_mass": 0.9997562058605944,
+  "item": "Honestly the best purchase I have made this year.",
+  "churn": 0.0,
+  "mode": "positive",
+  "counts": {
+   "positive": 16
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.7863868770958754,
+   "negative": 0.19021689429975575,
+   "neutral": 0.02339622860436886
+  },
+  "margin": 0.5961699827961197,
+  "naive_margin": 0.20302198158879747,
+  "label_mass": 0.9938119807315163,
+  "top20_mass": 0.9991602420694163,
+  "item": "Does what it says, nothing more, nothing less.",
+  "churn": 0.125,
+  "mode": "positive",
+  "counts": {
+   "negative": 2,
+   "positive": 14
+  }
+ },
+ {
+  "naive": "negative",
+  "naive_tok": "negative",
+  "summed": "negative",
+  "dist": {
+   "negative": 0.5346110797335076,
+   "positive": 0.43912639790651387,
+   "neutral": 0.02626252235997847
+  },
+  "margin": 0.09548468182699377,
+  "naive_margin": 0.026819144828878757,
+  "label_mass": 0.9966766843318713,
+  "top20_mass": 0.9992757356096423,
+  "item": "Terrible value for the price, would not buy again.",
+  "churn": 0.375,
+  "mode": "negative",
+  "counts": {
+   "positive": 6,
+   "negative": 10
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.8967288318589512,
+   "negative": 0.09041235815083191,
+   "neutral": 0.012858809990216843
+  },
+  "margin": 0.8063164737081193,
+  "naive_margin": 0.5516547155899238,
+  "label_mass": 0.994888614660706,
+  "top20_mass": 0.9991645980308473,
+  "item": "I was sceptical but it won me over completely.",
+  "churn": 0.0,
+  "mode": "positive",
+  "counts": {
+   "positive": 16
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.6684805287974342,
+   "negative": 0.28941406181576307,
+   "neutral": 0.04210540938680266
+  },
+  "margin": 0.3790664669816712,
+  "naive_margin": 0.2967901907421352,
+  "label_mass": 0.9963392556591449,
+  "top20_mass": 0.9992160979582071,
+  "item": "The manual is in another language entirely.",
+  "churn": 0.25,
+  "mode": "positive",
+  "counts": {
+   "positive": 12,
+   "negative": 4
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.6480803309349717,
+   "negative": 0.33351177619846323,
+   "neutral": 0.018407892866565048
+  },
+  "margin": 0.3145685547365085,
+  "naive_margin": 0.20954101847287598,
+  "label_mass": 0.9941042265022982,
+  "top20_mass": 0.999247554400097,
+  "item": "Works, though the app crashes occasionally.",
+  "churn": 0.375,
+  "mode": "positive",
+  "counts": {
+   "negative": 6,
+   "positive": 10
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.915465828258804,
+   "negative": 0.07836760700364374,
+   "neutral": 0.006166564737552303
+  },
+  "margin": 0.8370982212551602,
+  "naive_margin": 0.4877516702129674,
+  "label_mass": 0.9960419749331271,
+  "top20_mass": 0.9993872059550006,
+  "item": "Exceeded every expectation I had going in.",
+  "churn": 0.0,
+  "mode": "positive",
+  "counts": {
+   "positive": 16
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.6642033483481835,
+   "negative": 0.32338072841043825,
+   "neutral": 0.0124159232413782
+  },
+  "margin": 0.34082261993774526,
+  "naive_margin": 0.22730057105013832,
+  "label_mass": 0.991847298722724,
+  "top20_mass": 0.9988423359589835,
+  "item": "Fine for the money but the build feels cheap.",
+  "churn": 0.375,
+  "mode": "positive",
+  "counts": {
+   "negative": 6,
+   "positive": 10
+  }
+ },
+ {
+  "naive": "negative",
+  "naive_tok": "Negative",
+  "summed": "negative",
+  "dist": {
+   "negative": 0.6020565804672499,
+   "positive": 0.3753975110227773,
+   "neutral": 0.02254590850997274
+  },
+  "margin": 0.22665906944447256,
+  "naive_margin": 0.0944311510300223,
+  "label_mass": 0.9944136844409613,
+  "top20_mass": 0.9992147689462467,
+  "item": "Absolute rubbish, it stopped charging on day three.",
+  "churn": 0.25,
+  "mode": "negative",
+  "counts": {
+   "negative": 12,
+   "positive": 4
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.6673441061735294,
+   "negative": 0.32055507512276354,
+   "neutral": 0.012100818703707081
+  },
+  "margin": 0.3467890310507658,
+  "naive_margin": 0.2786999134372614,
+  "label_mass": 0.9968357861173215,
+  "top20_mass": 0.9993108406187121,
+  "item": "Pretty good, a few rough edges in the software.",
+  "churn": 0.375,
+  "mode": "positive",
+  "counts": {
+   "negative": 6,
+   "positive": 10
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.7913917220783317,
+   "negative": 0.18935363830018032,
+   "neutral": 0.019254639621487872
+  },
+  "margin": 0.6020380837781514,
+  "naive_margin": 0.03413401327863289,
+  "label_mass": 0.9956304213223393,
+  "top20_mass": 0.999135189679073,
+  "item": "I have no strong feelings about it either way.",
+  "churn": 0.125,
+  "mode": "positive",
+  "counts": {
+   "negative": 2,
+   "positive": 14
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.9791341590358476,
+   "negative": 0.018020866534460063,
+   "neutral": 0.00284497442969243
+  },
+  "margin": 0.9611132925013874,
+  "naive_margin": 0.020255056679728087,
+  "label_mass": 0.9983601059273638,
+  "top20_mass": 0.9996800116268546,
+  "item": "The design is lovely and it is a joy to use.",
+  "churn": 0.0,
+  "mode": "positive",
+  "counts": {
+   "positive": 16
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.6578053481175371,
+   "negative": 0.3257683779277048,
+   "neutral": 0.0164262739547581
+  },
+  "margin": 0.3320369701898323,
+  "naive_margin": 0.2504767288473875,
+  "label_mass": 0.9972050064169802,
+  "top20_mass": 0.9992704220021094,
+  "item": "It does the job but I would not recommend it.",
+  "churn": 0.375,
+  "mode": "positive",
+  "counts": {
+   "negative": 6,
+   "positive": 10
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.8842305375553343,
+   "negative": 0.10173753779225016,
+   "neutral": 0.014031924652415569
+  },
+  "margin": 0.7824929997630842,
+  "naive_margin": 0.17509359878131392,
+  "label_mass": 0.9949017797596782,
+  "top20_mass": 0.9994040753968261,
+  "item": "Shipping was fast, product is as described.",
+  "churn": 0.0,
+  "mode": "positive",
+  "counts": {
+   "positive": 16
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.49675361519377376,
+   "negative": 0.4809873192705561,
+   "neutral": 0.02225906553567022
+  },
+  "margin": 0.015766295923217655,
+  "naive_margin": 0.050855912243048446,
+  "label_mass": 0.9946426947710751,
+  "top20_mass": 0.9989244546039663,
+  "item": "Disappointing given how much it cost.",
+  "churn": 0.375,
+  "mode": "negative",
+  "counts": {
+   "positive": 6,
+   "negative": 10
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.9412733153272688,
+   "negative": 0.04105941126024909,
+   "neutral": 0.017667273412482056
+  },
+  "margin": 0.9002139040670196,
+  "naive_margin": 0.3562921502680587,
+  "label_mass": 0.9974517935610243,
+  "top20_mass": 0.9995700661257195,
+  "item": "Solid, dependable, no complaints at all.",
+  "churn": 0.0,
+  "mode": "positive",
+  "counts": {
+   "positive": 16
+  }
+ },
+ {
+  "naive": "positive",
+  "naive_tok": "Positive",
+  "summed": "positive",
+  "dist": {
+   "positive": 0.6895089489922839,
+   "negative": 0.2921998257838117,
+   "neutral": 0.018291225223904382
+  },
+  "margin": 0.39730912320847217,
+  "naive_margin": 0.20334004255997132,
+  "label_mass": 0.9940723780688409,
+  "top20_mass": 0.9992825452054276,
+  "item": "Mixed feelings - great hardware, poor software.",
+  "churn": 0.3125,
+  "mode": "positive",
+  "counts": {
+   "negative": 5,
+   "positive": 11
+  }
+ }
+]
